@@ -10,6 +10,20 @@
 - ✅ **Planificación de cursos**: Creación y organización de cursos y módulos educativos.  
 - ✅ **Seguimiento de progreso**: Monitoreo del avance de los estudiantes en tiempo real.  
 
+## 🌐 Acceso a la Aplicación
+
+🔗 Puedes probar la aplicación en el siguiente enlace:  
+👉 [EdTech-Eduflow - Demo](https://www.eduflow.somee.com)  
+
+## 🖼️ Capturas de Pantalla
+
+
+### 📌 Panel de Administración
+![Panel de Administración](ruta/de/imagen2.png)
+
+### 📌 Panel de Profesor
+![Vista de Curso](ruta/de/imagen3.png)
+
 ## 🛠️ Tecnologías Utilizadas
 
 ### 📌 Frontend:
