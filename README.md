@@ -17,7 +17,6 @@
 
 ## 🖼️ Capturas de Pantalla
 
-
 ### 📌 Panel de Administración
 ![Panel de Administración](https://github.com/user-attachments/assets/c8ca07b0-1865-45eb-9710-eba809cfa03e)
 
@@ -43,4 +42,21 @@
 
 📁 **CapaDominio** → Contiene las entidades y modelos del dominio educativo.  
 📁 **CapaNegocio** → Incluye la lógica de negocio y las reglas de la aplicación.  
-📁 **CapaProfesores** → Módulos y funcionalidades específicas para la gestión de profesores.  
+📁 **CapaProfesores** → Módulos y funcionalidades específicas para la gestión.  
+
+## 👥 Integrantes del Proyecto
+
+- **Emanuel Alejandro Celis** - Backend 
+- **Martín Alejandro García** - Backend/Frontend
+- **Mayra Rosseto** - Frontend y Diseño de UI/UX  
+- **Nadia Figueroa** - QA Tester
+
+## 🏗️ Mis Contribuciones
+
+🎯 **Diseño y creación de la Base de Datos**  
+🎯 **Implementación de la Capa de Dominio**  
+🎯 **Configuración de permisos y autenticación de login**  
+🎯 **Gestión de sesión de usuario (Guardado de sesión)**  
+🎯 **Desarrollo de funcionalidades del panel de administración**  
+🎯 **Desarrollo de funcionalidades del panel de profesores**  
+🎯 **Incorporación de vistas HTML y CSS al proyecto**  
