@@ -32,6 +32,7 @@
 
 ### 📌 Backend:
 - 🔹 **C#**  
+- 🏛 **Patrón de Arquitectura MVC**  
 
 ### 📌 Base de Datos:
 - 🗄️ **SQL Server**  
@@ -58,6 +59,7 @@
 
 🎯 **Diseño y creación de la Base de Datos con SQL Server**  
 🎯 **Implementación de la Capa de Dominio**  
+🎯 **Desarrollo siguiendo el patrón de arquitectura MVC**  
 🎯 **Configuración de permisos y autenticación de login**  
 🎯 **Gestión de sesión de usuario (Guardado de sesión)**  
 🎯 **Desarrollo de funcionalidades del panel de administración**  
