@@ -19,10 +19,10 @@
 
 
 ### 📌 Panel de Administración
-![Panel de Administración](ruta/de/imagen2.png)
+![Panel de Administración](https://github.com/user-attachments/assets/c8ca07b0-1865-45eb-9710-eba809cfa03e)
 
 ### 📌 Panel de Profesor
-![Vista de Curso](ruta/de/imagen3.png)
+![Vista de Curso](https://github.com/user-attachments/assets/6258d7e3-49b7-4a1d-b539-18e24bc9fe51)
 
 ## 🛠️ Tecnologías Utilizadas
 
