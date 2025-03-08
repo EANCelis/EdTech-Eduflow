@@ -1,0 +1,6 @@
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaDominio\bin\Release\CapaDominio.dll
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaDominio\bin\Release\CapaDominio.pdb
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaDominio\obj\Release\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaDominio\obj\Release\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaDominio\obj\Release\CapaDominio.dll
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaDominio\obj\Release\CapaDominio.pdb

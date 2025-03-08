@@ -1,0 +1,9 @@
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\bin\Release\CapaDominio.dll
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\bin\Release\CapaDominio.pdb
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\obj\Release\CapaNego.81B9D119.Up2Date
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Niss\Desktop\Demo\C23-57-webApp\NC_Grupo57\CapaNegocio\obj\Release\CapaNegocio.pdb
