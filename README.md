@@ -33,6 +33,9 @@
 ### 📌 Backend:
 - 🔹 **C#**  
 
+### 📌 Base de Datos:
+- 🗄️ **SQL Server**  
+
 ### 📌 Otros:
 - 🔷 **.NET Framework**  
 - 🔷 **ASP.NET**  
@@ -53,7 +56,7 @@
 
 ## 🏗️ Mis Contribuciones
 
-🎯 **Diseño y creación de la Base de Datos**  
+🎯 **Diseño y creación de la Base de Datos con SQL Server**  
 🎯 **Implementación de la Capa de Dominio**  
 🎯 **Configuración de permisos y autenticación de login**  
 🎯 **Gestión de sesión de usuario (Guardado de sesión)**  
